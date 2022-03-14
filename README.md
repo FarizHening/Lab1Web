@@ -28,10 +28,10 @@ Tampilan di Browser Seperti ini
 
 Berikut kode untuk mengatur atribut paragraf / align
 
-Rata kanan kiri : '<p align="justify">'
-Rata kanan : '<p align="right">'
-Rata kiri : '<p align="left">'
-Rata tengah : '<p align="center">'
+Rata kanan kiri : `<p align="justify">`
+Rata kanan : `<p align="right">`
+Rata kiri : `<p align="left">`
+Rata tengah : `<p align="center">`
 
 Untuk Codingan nya sebagai berikut.
 
