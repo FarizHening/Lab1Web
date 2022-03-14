@@ -52,9 +52,42 @@ kode yang dipakai adalah `<h>` untuk contoh codingan nya sebagai berikut
 
 ![Gambar 7](screenshot/ss8.png)
 
-Berikut tampilannya di dalam Browser. Paragraf pertama berjudul *Belajar Dasar HTML* 
-dan paragraf kedua berjudul *Paragraf Pada HTML*.
+Berikut tampilannya di dalam Browser. Paragraf pertama berjudul <b>Belajar Dasar HTML</b> 
+dan paragraf kedua berjudul <b>Paragraf Pada HTML</b>.
 
 ![Gambar 8](screenshot/ss7.png)
 
+### Pemformatan Text 
+
+Pemformatan text dilakukan untuk memodifikasi tampilan text pada browser supaya tampilan text lebih menarik.
+
+Untuk kode yang dipakai sebagai berikut :
+
+`<b>` : Bold text
+
+`<strong>` : Important text
+
+`<i>` :Italic text
+
+`<em>` :Emphasized text
+
+`<mark>` :Marked text
+
+`<small>` :Smaller text
+
+`<del>` :Deleted text
+
+`<ins>` :Inserted text
+
+`<sub>` :Subscript text
+
+`<sup>` :Superscript text
+
+Untuk contoh codingan nya sebagai berikut :
+
+![Gambar 9](screenshot/ss10.png)
+
+Tampilan Browser nya sebagai berikut :
+
+![Gambar 10](screenshot/ss9)
 
