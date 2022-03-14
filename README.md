@@ -40,6 +40,21 @@ Untuk Codingan nya sebagai berikut.
 
 ![Gambar 5](screenshot/ss5.png)
 
-dan Tampilan di Browser seperti ini
+dan Tampilan di Browser seperti ini, paragraf pertama Menampilkan Rata Tengah
+sedangkan paragraf kedua menunjukan Rata Kanan.
 
 ![Gambar 6](screenshot/ss6.png)
+
+### Memberi Judul pada tiap Paragraf
+
+Langkah selanjutnya adalah memberikan judul pada tiap Paragraf
+kode yang dipakai adalah `<h>` untuk contoh codingan nya sebagai berikut
+
+![Gambar 7](screenshot/ss8.png)
+
+Berikut tampilannya di dalam Browser. Paragraf pertama berjudul *Belajar Dasar HTML* 
+dan paragraf kedua berjudul *Paragraf Pada HTML*.
+
+![Gambar 8](screenshot/ss7.png)
+
+
