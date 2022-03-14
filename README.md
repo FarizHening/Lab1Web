@@ -89,5 +89,5 @@ Untuk contoh codingan nya sebagai berikut :
 
 Tampilan Browser nya sebagai berikut :
 
-![Gambar 10](screenshot/ss9)
+![Gambar 10](screenshot/ss9.png)
 
