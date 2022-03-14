@@ -7,3 +7,5 @@ Kode tag yang digunakan adalah '<title>'
 berikut tampilannya 
 
 ![Gambar 1](screenshot/ss2.png)
+untuk kodingannya seperti ini 
+![Gambar 2](screenshot/ss1.png)
