@@ -91,3 +91,42 @@ Tampilan Browser nya sebagai berikut :
 
 ![Gambar 10](screenshot/ss9.png)
 
+### Menyisipkan Gambar dan Setting Size Gambar
+
+Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, 
+kemudian simpan file gambar tersebut satu folder dengan file dokumen html. 
+Atau bisa juga menyisipkan gambar dari website external. 
+Kode tag yang dipakai `<img src="nama.png" title="nama gambar">`
+
+Codingannya sebagai berikut:
+
+![Gambar 11](screenshot/ss11.png)
+
+Tampilan Browsernya sebagai berikut :
+
+![Gambar 12](screenshot/ss12.png)
+
+Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. 
+Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan. 
+Kode tag yang dipakai `<img src="nama.png" width="200" title="nama gambar">`
+
+Lebih jelasnya lihat contoh berikut :
+
+![Gambar 13](screenshot/ss13.png)
+
+Tampilan Browsernya sebagai berikut :
+
+![Gambar 14](screenshot/ss14.png)
+
+### Menambahkan Hyperlink 
+
+Link atau Hyperlink merupakan elemen HTML yang berfungsi untuk menghubungkan satu halaman web dengan halaman web yang lain, 
+baik internal maupun eksternal, untuk kode tag nya `<a href="halaman web.html">Halaman web</a>`
+
+Contohnya sebagai berikut :
+
+![Gambar 15](screenshot/ss15.png)
+
+Tampilan Browsernya :
+
+![Gambar 16](screenshot/ss16.png)
