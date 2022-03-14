@@ -16,7 +16,7 @@ untuk kodingannya seperti ini
 ### Membuat Paragraf 
 
 Langkah selanjutnya adalah membuat paragraf. 
-kode tag yang digunakan adalah '<p>' untuk codingan nya seperti ini
+kode tag yang digunakan adalah `<p>` untuk codingan nya seperti ini
 
 ![Gambar 3](screenshot/ss4.png)
 
@@ -29,8 +29,11 @@ Tampilan di Browser Seperti ini
 Berikut kode untuk mengatur atribut paragraf / align
 
 Rata kanan kiri : `<p align="justify">`
+
 Rata kanan : `<p align="right">`
+
 Rata kiri : `<p align="left">`
+
 Rata tengah : `<p align="center">`
 
 Untuk Codingan nya sebagai berikut.
