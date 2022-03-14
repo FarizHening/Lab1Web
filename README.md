@@ -12,3 +12,16 @@ untuk kodingannya seperti ini
 
 
 ![Gambar 2](screenshot/ss1.png)
+
+### Membuat Paragraf 
+
+Langkah selanjutnya adalah membuat paragraf. 
+kode tag yang digunakan adalah '<p>' 
+untuk codingan nya seperti ini
+
+![Gambar 3](screenshot/ss4.png)
+
+tampilan di Browser seperti ini
+
+![Gambar 4](screenshot/ss3.png)
+
